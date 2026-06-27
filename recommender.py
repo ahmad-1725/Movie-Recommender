@@ -37,7 +37,7 @@ similarity_df = pd.DataFrame(
     similarity_matrix, index=interaction_matrix.index, columns=interaction_matrix.index
 )
 
-
+# recommender function
 def recommend_movies(user_id, num_recommendations=5):
 
     similar_users = similarity_df[user_id].sort_values(ascending=False)
