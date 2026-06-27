@@ -46,6 +46,7 @@ Files used:
 5. Recommend similar movies based on user rating patterns
 
 ---
+<img width="1526" height="875" alt="image" src="https://github.com/user-attachments/assets/7ba7c265-9488-4d48-b629-38afaf70e3fd" />
 
 # 📁 Project Structure
 
@@ -130,6 +131,5 @@ The application will open in your browser.
 
 # 👨‍💻 Author
 
-Ahmad
-BS Information Technology Student
+Ahmad Ilyas
 MERN Stack & Python Developer
